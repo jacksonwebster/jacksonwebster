@@ -21,13 +21,16 @@ I'm a recent graduate of Brown University <img alt="Brown University" width="14p
 
 ---
 ### 🥐 Languages & Tools
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/ "Python")
-[<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />](https://www.java.com/en/ "Java")
-[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />](https://www.tensorflow.org/ "Tensorflow")
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/ "JavaScript")
-[<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](https://www.latex-project.org/ "LaTeX")
-[<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/ "Git")
-</br></br>
+* Python
+* Java
+* Javascript
+* React
+* C++
+* HTML
+* SQL, PostgreSQL
+* Docker
+* Pandas/Numpy/Scipy
+* Node.js
 
 ---
 
