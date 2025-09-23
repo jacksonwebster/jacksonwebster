@@ -1,3 +1,4 @@
+---
 Hi! I'm a masters student at Harvard studying computational science and engineering; I'm interested in ai safety and alignment and computational properties of intelligent systems 
 ---
 - 📫 How to reach me: ...
