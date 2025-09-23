@@ -3,7 +3,7 @@ Hi, I’m Jackson 👋
 ---
 I’m a Master’s student in Computational Science & Engineering at Harvard. My interests center on AI safety & alignment, computational properties of intelligent systems & building reliable, transparent engineering systems.
 
-- Check Out My Projects
+- Check Out My [Projects](https://emergent-misalignment.onrender.com)
 
 - 📫 How to reach me: ...
 * Email: jacksonhwebster@gmail.com
