@@ -1,6 +1,10 @@
 ---
-Hi! I'm a masters student at Harvard studying computational science and engineering; I'm interested in ai safety and alignment and computational properties of intelligent systems 
+Hi, I’m Jackson 👋
 ---
+I’m a Master’s student in Computational Science & Engineering at Harvard. My interests center on AI safety & alignment, computational properties of intelligent systems & building reliable, transparent engineering systems.
+
+- Check Out My Projects
+
 - 📫 How to reach me: ...
 * Email: jacksonhwebster@gmail.com
 * LinkedIn: https://www.linkedin.com/in/jackson-webster/
