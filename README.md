@@ -6,7 +6,6 @@ I’m a Master’s student in Computational Science & Engineering at Harvard. My
 - Check Out My [Projects](https://emergent-misalignment.onrender.com)
 
 - 📫 How to reach me: ...
-* Email: jacksonhwebster@gmail.com
 * LinkedIn: https://www.linkedin.com/in/jackson-webster/
 
 <!--
