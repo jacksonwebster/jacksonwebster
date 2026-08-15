@@ -5,7 +5,7 @@ I’m a Software Engineer at SpaceX.
 
 - Check Out My [Projects](https://emergent-misalignment.onrender.com)
 
-- 📫 How to reach me: 
+📫 How to reach me: 
 * LinkedIn: https://www.linkedin.com/in/jackson-webster/
 * jacksonwebster.io
 
