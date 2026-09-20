@@ -3,7 +3,7 @@ Hi, I’m Jackson 👋
 ---
 I’m a Software Engineer at SpaceX.
 
-- Check Out My Projects: [Emergent Misalignment](https://emergent-misalignment.onrender.com), [Multi Paxos Visualized](https://multi-paxos-vis.onrender.com/)
+- Check Out My Projects: [Emergent Misalignment](https://emergent-misalignment.onrender.com), [Multi Paxos Visualization](https://multi-paxos-vis.onrender.com/)
 
 📫 How to reach me: 
 * LinkedIn: https://www.linkedin.com/in/jackson-webster/
